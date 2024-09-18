@@ -66,7 +66,7 @@ education:
   - area: MSc Autonomous Systems
     institution: York University
     date_start: '2023-05-05'
-    date_end: '2024-04-31'
+    date_end: '2024-04-30'
     summary: |
       GPA: 3.8/4.0
 
