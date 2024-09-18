@@ -65,8 +65,8 @@ education:
   #     url: 'https://example.com'
   - area: MSc Autonomous Systems
     institution: York University
-    date_start: 2023-05-05
-    date_end: 2024-04-31
+    date_start: '2023-05-05'
+    date_end: '2024-04-31'
     summary: |
       GPA: 3.8/4.0
 
@@ -76,8 +76,8 @@ education:
       - Machine Learning Theory
   - area: BEng Space Engineering
     institution: York University
-    date_start: 2018-09-04
-    date_end: 2022-12-31
+    date_start: '2018-09-04'
+    date_end: '2022-12-31'
     summary: |
       GPA: 3.45/4.0
       
@@ -90,7 +90,7 @@ work:
     company_name: Quanser
     company_url: 'https://www.quanser.com/'
     company_logo: ''
-    date_start: 2023-09-01
+    date_start: '2023-09-01'
     date_end: '2024-03-01'
     summary: |2-
       Responsibilities include:
@@ -100,7 +100,7 @@ work:
     company_name: Quanser
     company_url: 'https://www.quanser.com/'
     company_logo: ''
-    date_start: 2024-09-01
+    date_start: '2024-09-01'
     date_end: '2025-03-01'
     summary: |2-
       Responsibilities include:
